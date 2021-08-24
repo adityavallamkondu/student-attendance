@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "pro-c60",
+    "slug": "snack-0d72f722-4814-4cbc-9a06-2f782bf89736",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.testuser.pro-c60"
+    },
+    "android": {
+      "package": "com.testuser.pro-c60"
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
